@@ -38,8 +38,3 @@ hasta que el calor absorbido supera los 100000 J.
 - No se consideran cambios de fase.
 - El objetivo del código es didáctico y no un modelo físico completo.
 
-## Cómo ejecutar el código
-
-Ejecutar el archivo `.py` con Python 3 desde la terminal o un entorno de desarrollo
-como PyCharm.
-``
